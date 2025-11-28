@@ -38,7 +38,7 @@ This project is developed as part of the **ETP (Employability Training Program)*
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Component | Technology Used |
 |----------|-----------------|
@@ -50,7 +50,7 @@ This project is developed as part of the **ETP (Employability Training Program)*
 
 ---
 
-## 🚀 How It Works (Workflow Overview)
+##  How It Works (Workflow Overview)
 
 1. Load participant data from Excel  
 2. Loop through each row  
@@ -78,29 +78,29 @@ This project is developed as part of the **ETP (Employability Training Program)*
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
-### 1️⃣ Install Required UiPath Packages
+### 1️ Install Required UiPath Packages
 From **Manage Packages → Official**:
 - UiPath.Excel.Activities  
 - UiPath.Word/PowerPoint.Activities  
 - UiPath.Mail.Activities  
 - UiPath.System.Activities  
 
-### 2️⃣ Configure Email
+### 2️ Configure Email
 Inside `Send SMTP Mail Message`:
 - Server: `smtp.gmail.com`
 - Port: `587`
 - Enable SSL: `True`
 - Use **Gmail App Password** (not normal password)
 
-### 3️⃣ Place Required Files
+### 3️ Place Required Files
 Ensure these exist:
 - `Certificate Sample.pptx`
 - `Certificate Text.txt`
 - `List.xlsx`
 
-### 4️⃣ Run the Bot
+### 4️ Run the Bot
 Click **Run** inside UiPath Studio.  
 All certificates will be generated and emailed automatically.
 
