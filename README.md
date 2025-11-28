@@ -2,7 +2,6 @@
 
 This UiPath automation bot reads participant information from an Excel file, generates personalized certificates using a PPT/Word template, converts them into PDF, and sends them directly to their email inbox.
 
-This project is developed as part of the **ETP (Employability Training Program)**.
 
 ---
 
