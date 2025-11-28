@@ -71,9 +71,6 @@ This UiPath automation bot reads participant information from an Excel file, gen
 | John Doe   | 4SO21CS001  | john@gmail.com     | Python Workshop  | 21/11/2025 |
 | Jane Smith | 4SO21CS002  | jane@gmail.com     | AI Bootcamp      | 21/11/2025 |
 
----
-
-##  Sample Email Output
 
 ---
 
